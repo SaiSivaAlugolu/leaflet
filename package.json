@@ -17,7 +17,7 @@
     },
     "scripts": {},
     "dependencies": {
-        "@types/geojson": "^7946.0.8"
+        "@types/geojson": "7946.0.8"
     },
     "typesPublisherContentHash": "f2624f38c8716fc43a6c262fc52ed31449ecda952d58afbf2c3593a423d1216d",
     "typeScriptVersion": "2.3"
